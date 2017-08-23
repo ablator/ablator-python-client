@@ -1,2 +1,2 @@
-import karman.version
-from .karman import Karman
+import karman.version  # noqa
+from .karman import Karman  # noqa
